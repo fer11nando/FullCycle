@@ -1,2 +1,2 @@
 # FullCycle
-Minhas atividades durante o curso FullCycle
+Minhas atividades durante o curso FullCycle.
